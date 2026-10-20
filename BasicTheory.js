@@ -30,3 +30,10 @@
 // 28. What is a Stored Function?
 // 29. What is a Trigger?
 // 30. Basic PostgreSQL Architecture
+
+
+// Phase	Topics	Priority
+// 1. Fundamentals	1–12: Database, SQL, PostgreSQL, tables, schemas, commands, data types	Essential
+// 2. Data integrity	13–18: Keys, constraints, NULL, relationships	Essential
+// 3. Querying data	19–23: Normalization, JOINs, aggregates, GROUP BY, indexes	Essential
+// 4. Advanced concepts	24–30: Transactions, ACID, views, subqueries, functions, triggers, architecture	After fundamentals
