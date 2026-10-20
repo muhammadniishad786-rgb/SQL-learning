@@ -1,0 +1,1 @@
+// Data integrity means keeping data accurate, valid, consistent, and reliable in a database.
